@@ -7,7 +7,9 @@ Pop OS Nightsky
 
 Pop OS Robots
 --
+Robot 1
 ![PopOS-Robot-pre](https://github.com/user-attachments/assets/9e2f862d-b3e9-421b-a940-a386a57dc482)
 
+Robot 2
 ![PopOS-Robot2-pre](https://github.com/user-attachments/assets/d63e92b3-1d65-4804-bc4f-4b36124fbc4f)
 
