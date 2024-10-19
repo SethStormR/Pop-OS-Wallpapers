@@ -15,6 +15,10 @@ Robot 2
 
 ![PopOS-Robot2-pre](https://github.com/user-attachments/assets/d63e92b3-1d65-4804-bc4f-4b36124fbc4f)
 
+Robot 3
+
+![PopOS-Robot3_pre](https://github.com/user-attachments/assets/777dc3b8-75a5-4d62-ba12-b2f4dce7333f)
+
 Robot 4
 
 ![PopOS-Robot4-pre](https://github.com/user-attachments/assets/5a5d5580-27f5-4de8-bdd2-d049f66df781)
@@ -23,7 +27,5 @@ Robot 5
 
 ![PopOS-Robot5-pre](https://github.com/user-attachments/assets/e547fc03-973b-4f94-b612-dad0f1bc37c3)
 
-Robot 6
 
-![PopOS-Robot3_pre](https://github.com/user-attachments/assets/777dc3b8-75a5-4d62-ba12-b2f4dce7333f)
 
