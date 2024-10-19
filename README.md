@@ -22,3 +22,8 @@ Robot 4
 Robot 5
 
 ![PopOS-Robot5-pre](https://github.com/user-attachments/assets/e547fc03-973b-4f94-b612-dad0f1bc37c3)
+
+Robot 6
+
+![PopOS-Robot3_pre](https://github.com/user-attachments/assets/777dc3b8-75a5-4d62-ba12-b2f4dce7333f)
+
